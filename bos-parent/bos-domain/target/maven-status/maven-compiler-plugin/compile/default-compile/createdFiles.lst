@@ -1,0 +1,10 @@
+com\itheima\bos\domain\Workbill.class
+com\itheima\bos\domain\Decidedzone.class
+com\itheima\bos\domain\Role.class
+com\itheima\bos\domain\Function.class
+com\itheima\bos\domain\Subarea.class
+com\itheima\bos\domain\User.class
+com\itheima\bos\domain\Region.class
+com\itheima\bos\domain\Noticebill.class
+com\itheima\bos\domain\Staff.class
+com\itheima\bos\domain\Workordermanage.class

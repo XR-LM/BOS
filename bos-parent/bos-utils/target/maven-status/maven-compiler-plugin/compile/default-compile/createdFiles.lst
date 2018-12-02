@@ -1,0 +1,7 @@
+com\itheima\bos\utils\PageBean.class
+com\itheima\bos\utils\MD5Utils.class
+com\itheima\crm\Customer.class
+com\itheima\bos\utils\PinYin4jUtils.class
+com\itheima\bos\utils\BOSUtils.class
+com\itheima\bos\utils\FileUtils.class
+com\itheima\crm\ICustomerService.class
